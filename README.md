@@ -1,2 +1,4 @@
 # DSP-Studies
-Almeja apresentar estudos e projetos exploratórios em DSP
+Apresenta estudos e projetos exploratórios em DSP
+
+# Inicialmente apresentando carater compedioso de testes
